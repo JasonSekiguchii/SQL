@@ -1,2 +1,3 @@
 # SQL_Portfolio
-SQL - Projects + Certifications
+SQL *Certifications* are located under the **'SQL_Certifications'**, *tag*. <br>
+Project *Code* is located under the **'Main Branch'**<br>
